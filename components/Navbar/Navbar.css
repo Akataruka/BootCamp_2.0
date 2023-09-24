@@ -72,6 +72,7 @@ nav{
     align-items: center;
     font-size: 1.2em;
     margin-right: 15px;
+    color: #C2BFC9;
 }
 
 .desktop-links a {
@@ -81,7 +82,8 @@ nav{
 }
 
 .desktop-links a:hover {
-    color: rgb(240, 236, 8);
+    color: white; 
+    text-shadow: #fff 1px 0 5px;
     text-decoration: underline;
 }
 
