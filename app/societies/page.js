@@ -30,7 +30,7 @@ export default async function Society() {
         />
         <Society_card
           heading="E CELL"
-          src="/assets/e-cell white logo.png"
+          src="/assets/e-cell.png"
           instagram="https://instagram.com/iiitbh_ecell"
           para="Entrepreneurship Cell is one of the most active cells for all the young minds who like to innovate and think dynamically. The main aim is to promote the entrepreneurship spirit. It conducts event which not only widens your spectrum but also develop you as an individual like the E-week, Funding Den, and frequent webinars by experienced mentors. D3-the Techno-management week was conducted in collaboration with Tech-Society recently."
         />
@@ -42,13 +42,13 @@ export default async function Society() {
         />
         <Society_card
           heading="NAPS"
-          src="/assets/NAPS NEW LOGO.png"
+          src="/assets/NAPS.png"
           instagram="https://instagram.com/naps_iiit"
           para="News and Publication Society is the literary club of IIIT Bhubaneswar. It is a platform to rise  up with amazing writeups be it poetry, short stories or any type of content writing. They believe that writing is for everyone. For better or for verse! Ingenium is the annual literary fest organised by NAPs along with various events like Shayari Nights, Open-mic shows, etc. You can find beautiful write-ups of further past events in their official monthly magazine 'The Insight'."
         />
         <Society_card
           heading="PARACOSM"
-          src="/assets/PARACOSM LOGO TRANSPARENT.png"
+          src="/assets/paracosm.png"
           instagram="https://instagram.com/paracosm.iiitbh"
           para="Paracosm provides an environment for artistic minds to explore their creativity. May it be any event, the craftworks, decorations, and photo booths are beautifully managed by them. If you have creative ideas, artistic hands or a crafty mind, and the eagerness to create wonders, this is the right place for you. Events like Inktober, Art Relays, Exhibitions, Rangrez, etc are some of the beautiful contributions of this society."
         />
